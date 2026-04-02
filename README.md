@@ -28,9 +28,3 @@ The project includes both front-end and back-end functionalities.
 4. Run: php artisan key:generate
 5. Setup database
 6. Run: php artisan serve
-
-## 📷 Screenshots
-(Add your screenshots here)
-
-## 🌐 Live Demo
-(لو هترفعيه أونلاين بعدين)
